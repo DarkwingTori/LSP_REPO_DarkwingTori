@@ -1,5 +1,9 @@
 package org.howard.edu.lsp.assignment2;
 
+/**
+ * Name: Torien Mitchell
+ */
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
