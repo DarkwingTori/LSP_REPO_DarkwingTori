@@ -1,0 +1,6 @@
+REFERENCES:
+
+AI-Generated Content:
+- Complete conversation with ChatGPT (OpenAI) from [timestamp of our session] used to generate AreaCalculator.java and Main.java
+- AI assistance provided for: method overloading implementation, exception handling, output formatting, and design rationale explanation
+- Generated code reviewed and refined through iterative conversation with AI assistant
